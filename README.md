@@ -8,6 +8,6 @@ It lets you live in or rent a property as long as certain rules are followed. It
 A tenancy can either be:  
 * fixed-term (running for a set period of time)
 * periodic (running on a week-by-week or month-by-month basis)
-*
+
 ## Rights and responsibilities
-* Both the tennant and the landlord have certain rights and responsibilities, whether or not you have a tenancy agreement.
+Both the tennant and the landlord have certain rights and responsibilities, whether or not you have a tenancy agreement.

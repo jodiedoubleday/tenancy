@@ -29,20 +29,15 @@ Means the list of the Landlord’s possessions at the Property which has been si
 
 SIGNED
 
-
+-----------------
 (The Landlord)
+
+-----------------
 (The Tenant)
-
-
-…………………………………………
-
-…………………………………………
-
-
 
 DATED
 
-…………………………………………
+-----------------
 
 
 

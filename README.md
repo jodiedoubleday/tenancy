@@ -1,4 +1,4 @@
-# Tennacy Documents
+# Tenancy Documents
 Renting a house or flat/apartment? Here are a few documents to help you get started.
 
 A tenancy agreement is a contract between the tennant and a landlord.
